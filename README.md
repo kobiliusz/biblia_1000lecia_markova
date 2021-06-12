@@ -1,7 +1,10 @@
 # Księga Nostradamusa
 
 * Install python3 interpreter (depends on your system)
-* In python shell type:
+* Download the Book as ZIP file
+* Extract ZIP file
+* Open python shell and change directory to the extracted Book
+* Type:
 * pip3 install markovify && python3 markov.py > proroctwo.txt
 * If that doesn't work try:
 * pip install markovify && python markov.py > proroctwo.txt
